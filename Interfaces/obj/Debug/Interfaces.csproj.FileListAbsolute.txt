@@ -1,0 +1,12 @@
+c:\Users\admin\documents\visual studio 2015\Projects\trymvc1\Interfaces\bin\Debug\Interfaces.dll
+c:\Users\admin\documents\visual studio 2015\Projects\trymvc1\Interfaces\bin\Debug\Interfaces.pdb
+c:\Users\admin\documents\visual studio 2015\Projects\trymvc1\Interfaces\bin\Debug\Models.dll
+c:\Users\admin\documents\visual studio 2015\Projects\trymvc1\Interfaces\bin\Debug\EntityFramework.dll
+c:\Users\admin\documents\visual studio 2015\Projects\trymvc1\Interfaces\bin\Debug\Models.pdb
+c:\Users\admin\documents\visual studio 2015\Projects\trymvc1\Interfaces\bin\Debug\EntityFramework.xml
+c:\Users\admin\documents\visual studio 2015\Projects\trymvc1\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+c:\Users\admin\documents\visual studio 2015\Projects\trymvc1\Interfaces\obj\Debug\Interfaces.dll
+c:\Users\admin\documents\visual studio 2015\Projects\trymvc1\Interfaces\obj\Debug\Interfaces.pdb
+c:\Users\admin\Documents\Visual Studio 2015\Projects\trymvc1\Interfaces\bin\Debug\Interfaces.dll.config
+c:\Users\admin\Documents\Visual Studio 2015\Projects\trymvc1\Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\admin\Documents\Visual Studio 2015\Projects\trymvc1\Interfaces\bin\Debug\EntityFramework.SqlServer.xml
